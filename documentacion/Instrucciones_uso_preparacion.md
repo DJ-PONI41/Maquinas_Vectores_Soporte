@@ -149,6 +149,8 @@ joblib
 
 > **⚠️ NOTA:** Todos los integrantes deben instalar estas dependencias antes de ejecutar sus scripts.
 
+> **⚠️ NOTA2:** Si nesesitas otras librerias extra añadelas al archivo `requirements.txt` en el mismo formato que los demas requerimientos.
+
 ---
 
 ## 🚀 7. Ejemplo de uso (Integrante 5 - Entrenamiento)
